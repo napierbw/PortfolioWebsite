@@ -32,8 +32,33 @@ Experience
 
 * Research roles include conducting experiments to determine how students best learn and attending conferences to present findings
 
+**Service Desk Technician, VCUCard Office, Richmond, VA, May/2018-November/2018**
+
+* Printed hundreds of identification cards, marketed VCUCard services to incoming students by going to orientations to spread information about VCUCard, and assisted customers over the phone.
+
+**Computer Technology Intern, Colonial Heights Public Schools, Colonial Heights, VA, Summers 2014-2017**
+
+* Imaged hundreds of computers and laptops, improved server racks by reorganizing cables, installed wireless access points across five schools, kept inventory of hardware in five schools using Excel
+
+* Lead a team of four students by ensuring proper completion of imaging, installation, and inventory
+
+
 Technical Experience
 --------------------
+
+Certifications
+:
+   * CompTIA A+
+   * VCIN Level 4 Security
+
+Academic Projects
+:   
+
+    * Hot Wheels, VCU, Richmond, VA, Fall/2019 2nd Place, RamHacks
+         * Created a solution for CarMax to better mark their vehicles when they are reserved by customers by combining Unity AR, MongoDB Atlas clusters, Google Cloud Platform, and PyMongo.
+
+    * WorkClout, VCU, Richmond, VA, Spring/2019
+         * Built an Android application over the course of a semester that allows personalization of a user profile, login restrictions, and storing of user data in a FireStore database
 
 Primary Languages
 :   
@@ -43,3 +68,11 @@ Primary Languages
     * HTML/CSS/JS    (Using since 2017)
     * C#             (Using since 2018)
     * Powershell     (Using since 2018)
+
+Activities
+--------------------
+
+Clubs
+:  
+   * Linux User Group (VCU-LUG), Richmond, VA, September/2018 – Present
+   * RamDev, Richmond, VA, September/2018 – Present
