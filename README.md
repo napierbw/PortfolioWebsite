@@ -1,5 +1,3 @@
-# PortfolioWebsite
-
 Benjamin Napier
 ============
 
@@ -15,8 +13,7 @@ Education
 2017-2020
 :   **BSc, Computer Science with a concentration in data science**; Virginia Commonwealth University
 
-    *GPA: 3.77*   *Honors College*
-    *Minor: Mathematics*
+    *GPA: 3.77*   *Honors College*     *Minor: Mathematics*
     
 Experience
 ----------
@@ -39,9 +36,10 @@ Technical Experience
 --------------------
 
 Primary Languages
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+:   
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+    * Java (Using since 2016)
+    * Python (Using since 2017)
+    * HTML/CSS/JS (Using since 2017)
+    * C# (Using since 2018)
+    * Powershell (Using since 2018)
