@@ -2,9 +2,9 @@ Benjamin Napier
 ============
 
 -----------------------     ----------------------------
-209 Norwood Dr.                     napierbw51@gmail.com
-Colonial Heights 23834                            @bwn98
-United States                              (804)898-4669
+* 209 Norwood Dr.                     napierbw51@gmail.com
+* Colonial Heights 23834                            @bwn98
+* United States                              (804)898-4669
 -----------------------     ----------------------------
 
 Education
@@ -38,8 +38,8 @@ Technical Experience
 Primary Languages
 :   
 
-    * Java (Using since 2016)
-    * Python (Using since 2017)
-    * HTML/CSS/JS (Using since 2017)
-    * C# (Using since 2018)
-    * Powershell (Using since 2018)
+    * Java           (Using since 2016)
+    * Python         (Using since 2017)
+    * HTML/CSS/JS    (Using since 2017)
+    * C#             (Using since 2018)
+    * Powershell     (Using since 2018)
