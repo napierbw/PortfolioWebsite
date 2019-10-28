@@ -47,9 +47,10 @@ Technical Experience
 --------------------
 
 Certifications
-:
-   * CompTIA A+
-   * VCIN Level 4 Security
+:   
+
+    * CompTIA A+
+    * VCIN Level 4 Security
 
 Academic Projects
 :   
@@ -73,6 +74,17 @@ Activities
 --------------------
 
 Clubs
-:  
-   * Linux User Group (VCU-LUG), Richmond, VA, September/2018 – Present
-   * RamDev, Richmond, VA, September/2018 – Present
+:   
+
+    * RamDev, Richmond, VA, September/2018 – Present
+    * Linux User Group (VCU-LUG), Richmond, VA, September/2018 – May/2019
+    
+    * VCU eSports Competitive League of Legends team, November/2018 - Present
+    * Intervarsity, May/2018 - Present
+    
+Odd Jobs
+:   
+
+    * Musician for Virginia Commonwealth University Honors College Graduation Ceremonies (May 2017, December 2018, May 2018)
+    
+    * Kentucky Set Running teacher at Christmas Country Dance School (December 2017, December 2018, December 2019)
