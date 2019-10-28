@@ -24,7 +24,7 @@ Experience
 
 * Working with other technicians to cover all police IT needs, communicating with vendors for Scantron/CritiCall/etc., imaging police devices, cell phone upkeep
 
-* Webmaster for police.vcu.edu
+* Webmaster for https://police.vcu.edu/
 
 **Undergraduate Research Assistant, VCU, Richmond, VA, September/2018-Present**
 
@@ -56,10 +56,12 @@ Academic Projects
 :   
 
     * Hot Wheels, VCU, Richmond, VA, Fall/2019 2nd Place, RamHacks
-         * Created a solution for CarMax to better mark their vehicles when they are reserved by customers by combining Unity AR, MongoDB Atlas clusters, Google Cloud Platform, and PyMongo.
+         * Created a solution for CarMax to better mark their vehicles when they are reserved by
+         customers by combining Unity AR, MongoDB Atlas clusters, Google Cloud Platform, and PyMongo.
 
     * WorkClout, VCU, Richmond, VA, Spring/2019
-         * Built an Android application over the course of a semester that allows personalization of a user profile, login restrictions, and storing of user data in a FireStore database
+         * Built an Android application over the course of a semester that allows personalization 
+         of a user profile, login restrictions, and storing of user data in a FireStore database
 
 Primary Languages
 :   
@@ -85,6 +87,8 @@ Clubs
 Odd Jobs
 :   
 
-    * Musician for Virginia Commonwealth University Honors College Graduation Ceremonies (May 2017, December 2018, May 2018)
+    * Musician for Virginia Commonwealth University Honors College Graduation Ceremonies 
+         (May 2017, December 2018, May 2018)
     
-    * Kentucky Set Running teacher at Christmas Country Dance School (December 2017, December 2018, December 2019)
+    * Kentucky Set Running teacher at Christmas Country Dance School 
+         (December 2017, December 2018, December 2019)
