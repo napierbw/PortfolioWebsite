@@ -2,9 +2,9 @@ Benjamin Napier
 ============
 
 -----------------------     ----------------------------
-* 209 Norwood Dr.                     napierbw51@gmail.com
-* Colonial Heights 23834                            @bwn98
-* United States                              (804)898-4669
+* napierbw51@gmail.com
+* 209 Norwood Dr., Colonial Heights, VA, United States 23834
+* (804) 898-4669
 -----------------------     ----------------------------
 
 Education
