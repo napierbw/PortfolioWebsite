@@ -67,7 +67,7 @@ Primary Languages
 :   
 
     * Java           (Using since 2016)      https://github.com/napierbw/WorkClout
-    * Python         (Using since 2017)      
+    * Python         (Using since 2017)      https://github.com/napierbw/SodaBot
     * HTML/CSS/JS    (Using since 2017)      https://napierbw.github.io/      https://github.com/napierbw/Boids
     * C#             (Using since 2018)      https://github.com/napierbw/HotWheelsCS
     * Powershell     (Using since 2018)      https://github.com/napierbw/Hive_of_Neus
