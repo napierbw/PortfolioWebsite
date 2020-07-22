@@ -18,7 +18,7 @@ Education
 Experience
 ----------
 
-**Service Desk Technician, VCU, Richmond, VA, November/2018-Present:**
+**Service Desk Technician, VCU, Richmond, VA, November/2018-January/2020:**
 
 * Embedded technician for the VCU Police Department
 
@@ -26,7 +26,7 @@ Experience
 
 * Webmaster for https://police.vcu.edu/
 
-**Undergraduate Research Assistant, VCU, Richmond, VA, September/2018-Present**
+**Undergraduate Research Assistant, VCU, Richmond, VA, September/2018-January/2020**
 
 * Teaching assistant for Introduction to Computer Science and Data Structures and Algorithms classes
 
@@ -78,7 +78,7 @@ Activities
 Clubs
 :   
 
-    * RamDev, Richmond, VA, September/2018 – Present
+    * RamDev, Richmond, VA, September/2018 – May/2020
     * Linux User Group (VCU-LUG), Richmond, VA, September/2018 – May/2019
     
     * VCU eSports Competitive League of Legends team, November/2018 - Present
